@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://frontendmentor-qr-code-main.netlify.app/](https://frontendmentor-qr-code-main.netlify.app/)
+- Live Site URL: [qr code component](https://frontendmentor-qr-code-main.netlify.app/)
 
 ## My process
 
